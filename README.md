@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/63721528-3d6b-4113-ad69-166da9060e22" alt="Volkov Oleksandr Avatar" width="150" height="150" style="border-radius: 50%;">
 
-
+  <img src="https://github.com/user-attachments/assets/3ed9f1cf-6056-43c6-bc59-d68b1c4cab75" alt="Volkov Oleksandr Avatar" width="250" height="250" style="border-radius: 50%;">
   <h1>Hi, I'm Oleksandr Volkov (Волков Олександр) 👋</h1>
   
   <p>
